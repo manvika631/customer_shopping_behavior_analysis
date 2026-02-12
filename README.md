@@ -82,6 +82,7 @@ b) Perform customer segmentation and clustering
 c) Automate data refresh for dashboards
 
 7) Key Results-
+   
 Identified high-value customer segments
 
 Observed spending patterns across age groups and categories
