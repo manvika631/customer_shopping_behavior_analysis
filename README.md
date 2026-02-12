@@ -1,11 +1,11 @@
 # customer_shopping_behavior_analysis
 data Analysis project showcasing customer behavior analysis using PYTHON, SQL and PowerBI.
 1) Overview-
-2) 
+
 This project demonstrates an end-to-end data analytics workflow using Python, SQL, and Power BI.
 The goal is to analyze customer shopping behavior, uncover patterns, and present insights through visual dashboards and reports for business decision-making.
 
-3) Dataset-
+2) Dataset-
    
 Type: Customer shopping behavior data
 
