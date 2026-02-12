@@ -74,7 +74,8 @@ Power BI – Interactive dashboard creation
 
 *GitHub – Version control and project sharing
 
-60 Future Enhancements-
+6)  Future Enhancements-
+   
 a) Build predictive models for customer behavior
 
 b) Perform customer segmentation and clustering
